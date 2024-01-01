@@ -20,11 +20,11 @@ To be at the forefront of technological innovation by merging the transformative
 
 - **Join Our Community**: Be a part of a dynamic group of innovators and thinkers. [Sign up here](#)
 - **Contribute to Open Source**: Check out our projects and contribute to real-world applications of AI and blockchain. [See our projects](#)
-- **Attend Our Events**: Stay updated on our workshops, summits, and hackathons. [View upcoming events](#)
+- **Attend Our Events**: Stay updated on our workshops, summits, and hackathons. [View upcoming events](https://kommunity.com/aifusion3/events)
 
 ## Stay Connected
 
-- **Follow us on Twitter**: [@AIFusion3](#)
+- **Follow us on Twitter**: [@AIFusion3](https://twitter.com/aifusion3)
 - **Join our Discord Channel**: [AIFusion3 Discord](#)
 
 ## Support
